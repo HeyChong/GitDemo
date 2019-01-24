@@ -3,3 +3,4 @@ I`m Learning How To Use The Git Utils
 I`m Trying Use The Diff Command
 Test The Stage and Master
 Test The Diff Command
+Test Diff HEAD Command
