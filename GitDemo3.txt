@@ -4,3 +4,4 @@ I`m Trying Use The Diff Command
 Test The Stage and Master
 Test The Diff Command
 Test Diff HEAD Command
+Chang something 
